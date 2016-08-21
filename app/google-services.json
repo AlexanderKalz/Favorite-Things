@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "118000122189",
+    "firebase_url": "https://favorite-things-790ad.firebaseio.com",
+    "project_id": "favorite-things-790ad",
+    "storage_bucket": "favorite-things-790ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118000122189:android:53f603862db4ee16",
+        "android_client_info": {
+          "package_name": "de.drkalz.favoritethings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118000122189-sveaelp077n2d0vh1b2jb2nqnka8so02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.drkalz.favoritethings",
+            "certificate_hash": "070E1ABFE6F61BF482F0E7BEF70CBED23E9575C2"
+          }
+        },
+        {
+          "client_id": "118000122189-5rvh6g5ve3lr8mbjp1kkmns85lktce9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbUIwFvj8YovcfzFmx69h0iZ4aLX5co4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118000122189-5rvh6g5ve3lr8mbjp1kkmns85lktce9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
